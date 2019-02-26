@@ -1,0 +1,14 @@
+Quicksort: T 0 N 10
+Quicksort: T 0 N 100
+Quicksort: T 0 N 1000
+Quicksort: T 0 N 10000
+Quicksort: T 0 N 100000
+Quicksort: T 0 N 1000000
+Quicksort: T 0 N 10000000
+Quicksort: T 0 N 100000000
+Radix sort: T 0 N 10
+Radix sort: T 0 N 100
+Radix sort: T 0 N 1000
+Radix sort: T 1 N 10000
+Radix sort: T 12 N 100000
+Radix sort: T 138 N 1000000

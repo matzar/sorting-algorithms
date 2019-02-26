@@ -1,0 +1,24 @@
+Quicksort: T 0 N 10
+Quicksort: T 0 N 100
+Quicksort: T 0 N 1000
+Quicksort: T 0 N 10000
+Quicksort: T 9 N 100000
+Quicksort: T 91 N 1000000
+Quicksort: T 886 N 10000000
+Quicksort: T 8208 N 100000000
+Radix sort: T 0 N 10
+Radix sort: T 0 N 100
+Radix sort: T 0 N 1000
+Radix sort: T 1 N 10000
+Radix sort: T 14 N 100000
+Radix sort: T 149 N 1000000
+Radix sort: T 1583 N 10000000
+Radix sort: T 17056 N 100000000
+std::sort: T 0 N 10
+std::sort: T 0 N 100
+std::sort: T 0 N 1000
+std::sort: T 0 N 10000
+std::sort: T 6 N 100000
+std::sort: T 62 N 1000000
+std::sort: T 602 N 10000000
+std::sort: T 5991 N 100000000
